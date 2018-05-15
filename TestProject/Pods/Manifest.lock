@@ -1,0 +1,21 @@
+PODS:
+  - tryon-module-ios (0.1.0)
+  - tryon-module-ios-debug (0.1.0)
+
+DEPENDENCIES:
+  - tryon-module-ios (from `../tryon-module`)
+  - tryon-module-ios-debug (from `../tryon-module`)
+
+EXTERNAL SOURCES:
+  tryon-module-ios:
+    :path: "../tryon-module"
+  tryon-module-ios-debug:
+    :path: "../tryon-module"
+
+SPEC CHECKSUMS:
+  tryon-module-ios: 4173e1084a46fb565557374f9978570da04db8c8
+  tryon-module-ios-debug: e8698794f4022eb691003ac520470825f8f029b0
+
+PODFILE CHECKSUM: ac0f175177edde8a51b818d444da61803fabc15a
+
+COCOAPODS: 1.5.2

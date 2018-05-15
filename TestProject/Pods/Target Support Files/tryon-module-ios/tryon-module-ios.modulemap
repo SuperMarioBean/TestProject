@@ -1,0 +1,6 @@
+framework module tryon_module_ios {
+  umbrella header "tryon-module-ios-umbrella.h"
+
+  export *
+  module * { export * }
+}

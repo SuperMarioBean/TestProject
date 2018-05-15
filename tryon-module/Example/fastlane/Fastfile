@@ -1,0 +1,5 @@
+import_from_git(
+  url: "http://10.157.26.43:7990/scm/sa/fastlane.git",
+  branch: "master",
+  path: "fastlane/Fastfile"
+)

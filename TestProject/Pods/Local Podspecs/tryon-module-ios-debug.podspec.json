@@ -1,0 +1,25 @@
+{
+  "name": "tryon-module-ios-debug",
+  "version": "0.1.0",
+  "summary": "A short description of tryon-module-ios.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "http://10.157.26.43:7990/projects/SA/repos/tryon-module-ios/browse",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "supermariobean": "david.fu.zju.dev@gmail.com"
+  },
+  "source": {
+    "git": "http://10.157.26.43:7990/scm/sa/tryon-module-ios.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "static_framework": true,
+  "source_files": [
+    "tryon-module-ios/Classes/**/*"
+  ]
+}

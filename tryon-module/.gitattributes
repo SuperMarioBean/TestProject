@@ -1,0 +1,8 @@
+tryon-module-ios/Frameworks/prod/MFESephoraKit.framework/MFESephoraKit filter=lfs diff=lfs merge=lfs -text
+tryon-module-ios/Assets/prod/MFESephoraBundle.bundle/Assets.car filter=lfs diff=lfs merge=lfs -text
+tryon-module-ios/Assets/prod/MFESephoraBundle.bundle/MFEFaceTrackerBundle.bundle/SparseHelenPointsNoContour_nearbyfeaturepool_lambda0.03_moredata_ver6.dat filter=lfs diff=lfs merge=lfs -text
+tryon-module-ios/Assets/prod/MFESephoraBundle.bundle/MFEFaceTrackerBundle.bundle/SparseHelenPointsNoContourLips_TrainedUsingHybridModel_lambda0.03_nearbyfeaturepool_moredata_ver6.dat filter=lfs diff=lfs merge=lfs -text
+tryon-module-ios/Assets/dev/MFESephoraBundle.bundle/Assets.car filter=lfs diff=lfs merge=lfs -text
+tryon-module-ios/Assets/dev/MFESephoraBundle.bundle/MFEFaceTrackerBundle.bundle/SparseHelenPointsNoContour_nearbyfeaturepool_lambda0.03_moredata_ver6.dat filter=lfs diff=lfs merge=lfs -text
+tryon-module-ios/Assets/dev/MFESephoraBundle.bundle/MFEFaceTrackerBundle.bundle/SparseHelenPointsNoContourLips_TrainedUsingHybridModel_lambda0.03_nearbyfeaturepool_moredata_ver6.dat filter=lfs diff=lfs merge=lfs -text
+tryon-module-ios/Frameworks/dev/MFESephoraKit.framework/MFESephoraKit filter=lfs diff=lfs merge=lfs -text
